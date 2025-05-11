@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    font: Roboto ;
+    
+}
+
+.page{
+    background-color: #F9F8FA;
+}
+.First-portion{
+    background-color: #1f2937;
+    color: #F9F8FA;
+    
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 120px;
+    margin-bottom: 100px;
+}
+
+.mw2-logo{
+    width: 100px;
+    height: auto;
+    
+    
+}
+
+.right-header ul {
+    list-style: none ;
+    display: flex;
+    gap: 20px;
+    color: #E5E7EB;
+  
+}
+.hero-section{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-bottom: 120px;
+    margin: 0 120px;
+}
+
+.mw2-img{
+    width: 400px;
+    height: auto;
+    border-radius: 18px;
+}
+
+.left-section h1 {
+    color: #F9F8FA;
+    font-weight: 900;
+    font-size: 52px;
+    margin-bottom: 30px;
+    
+}
+.left-section p {
+    color: #F9F8FA;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.play-btn{
+    color: #E5E7EB;
+    font-weight: bolder;
+    padding: 12px 25px;
+    background-color: #4ec021;
+    border: none;
+    border-radius: 6px;
+}
+.second-portion h2 {
+ text-align: center;
+ font-size: 48px;
+ color: #1f2937;
+ margin: 40px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+    color: #1f2937;
+
+}
+
+.card img {
+    width: 400px ;
+    height: auto;
+    border-radius: 40px;
+    margin: 15px ;
+    border:5px solid #4ec021;
+    
+}
+.card p {
+    width: 300px;
+    color: rgb(128, 128, 128);
+}
+
+.third-portion{
+ background-color: #E5E7EB;
+ padding: 100px;
+}
+
+
+.third-portion p {
+    
+    font-size: 36px;
+    font-weight: lighter; 
+    font-style: italic;
+    color: #1F2937;
+}
+.third-portion h3{
+    text-align: end;
+    font-size : 30px ;
+    color: #1F2537;
+}
+
+.fourth-portion{
+    
+    padding: 100px;
+}
+
+.call-to-action{
+    background-color: #3882F6 ;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 250px;
+    border-radius: 12px;
+    
+    
+}
+
+.call-to-action button {
+ background-color: #3882F6;
+ color:#F9F8FA;
+ border: solid 2px #F9F8FA;
+ padding: 8px 25px;
+ font-weight: bold;
+ font-size: 18px;
+ border-radius: 9px;
+} 
+
+.call-to-action div {
+    color: #F9F8FA;
+}
+.call-to-action h4{
+    font-size: 28px ;
+}
+.call-to-action p {
+    color: #E5E7EB;
+}
+
+.fifth-portion{
+    background-color: #1f2937;
+}
+.fifth-portion p {
+    color: #E5E7EB;
+    padding: 50px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+}
